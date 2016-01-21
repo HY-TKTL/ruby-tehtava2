@@ -1,3 +1,3 @@
 def erotus (a, b)
-	return a - b
+	puts a - b
 end
