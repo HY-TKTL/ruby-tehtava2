@@ -1,4 +1,4 @@
 # kirjoita koodi tänne
 def erotus(a, b)
-  a-b
+  print a-b
 end
