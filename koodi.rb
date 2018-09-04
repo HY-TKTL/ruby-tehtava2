@@ -1,4 +1,4 @@
 # kirjoita koodi tänne
-def erotus(a, b)
-  return a - b
+def erotus(a,b)#
+  puts a - b
 end
